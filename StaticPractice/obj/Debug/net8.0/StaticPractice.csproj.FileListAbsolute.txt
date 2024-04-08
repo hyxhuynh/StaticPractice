@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.exe
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.deps.json
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.dll
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.pdb
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.dll
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\refint\StaticPractice.dll
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.pdb
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\StaticPractice\StaticPractice\obj\Debug\net8.0\ref\StaticPractice.dll

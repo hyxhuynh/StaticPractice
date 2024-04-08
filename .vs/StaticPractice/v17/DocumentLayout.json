@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HyHuynh\\TrueCoders\\repos\\StaticPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36556CA2-946B-4076-9868-3DF8A86B1BDB}|StaticPractice\\StaticPractice.csproj|c:\\hyhuynh\\truecoders\\repos\\staticpractice\\staticpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36556CA2-946B-4076-9868-3DF8A86B1BDB}|StaticPractice\\StaticPractice.csproj|solutionrelative:staticpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36556CA2-946B-4076-9868-3DF8A86B1BDB}|StaticPractice\\StaticPractice.csproj|c:\\hyhuynh\\truecoders\\repos\\staticpractice\\staticpractice\\tempconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36556CA2-946B-4076-9868-3DF8A86B1BDB}|StaticPractice\\StaticPractice.csproj|solutionrelative:staticpractice\\tempconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TempConverter.cs",
+              "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\StaticPractice\\StaticPractice\\TempConverter.cs",
+              "RelativeDocumentMoniker": "StaticPractice\\TempConverter.cs",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\StaticPractice\\StaticPractice\\TempConverter.cs",
+              "RelativeToolTip": "StaticPractice\\TempConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:09:12.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\StaticPractice\\StaticPractice\\Program.cs",
+              "RelativeDocumentMoniker": "StaticPractice\\Program.cs",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\StaticPractice\\StaticPractice\\Program.cs*",
+              "RelativeToolTip": "StaticPractice\\Program.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:06:50.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
